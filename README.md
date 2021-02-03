@@ -1,5 +1,4 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning React! 
-- 📫 How to reach me: hello@sarahsipple.com
-- 😄 Pronouns: she/her
+- 💻 I am a front end developer who currently uses React
+- ✉ How to reach me: hello@sarahsipple.com
