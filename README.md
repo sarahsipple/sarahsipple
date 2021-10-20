@@ -1,8 +1,6 @@
 ### Hi there 👋 I'm Sarah
 
-- 💻 I am a front end developer who currently loves React
-- 🌱 I’m currently learning everything Front End that I can
-- 👩 She/Her
+- 💻 I am a front end developer who currently loves React, GraphQL, TypeScript, SCSS
 
 
 ### Connect with me:
